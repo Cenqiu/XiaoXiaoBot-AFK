@@ -152,69 +152,6 @@ F1启动，F2关闭
     <value>$this</value>
   </data>
   <data name="&gt;&gt;transTextBox1.ZOrder" xml:space="preserve">
-    <value>2</value>
-  </data>
-  <data name="transTextBox2.Font" type="System.Drawing.Font, System.Drawing">
-    <value>楷体, 15pt, style=Bold</value>
-  </data>
-  <data name="transTextBox2.Location" type="System.Drawing.Point, System.Drawing">
-    <value>3, 237</value>
-  </data>
-  <data name="transTextBox2.ScrollBars" type="System.Windows.Forms.RichTextBoxScrollBars, System.Windows.Forms">
-    <value>None</value>
-  </data>
-  <data name="transTextBox2.Size" type="System.Drawing.Size, System.Drawing">
-    <value>179, 52</value>
-  </data>
-  <data name="transTextBox2.TabIndex" type="System.Int32, mscorlib">
-    <value>1</value>
-  </data>
-  <data name="transTextBox2.Text" xml:space="preserve">
-    <value>把.NET打包进来了
-所以文件有一百兆
-</value>
-  </data>
-  <data name="&gt;&gt;transTextBox2.Name" xml:space="preserve">
-    <value>transTextBox2</value>
-  </data>
-  <data name="&gt;&gt;transTextBox2.Type" xml:space="preserve">
-    <value>BaseTextBox.TransTextBox, BaseTextBox, Culture=neutral, PublicKeyToken=null</value>
-  </data>
-  <data name="&gt;&gt;transTextBox2.Parent" xml:space="preserve">
-    <value>$this</value>
-  </data>
-  <data name="&gt;&gt;transTextBox2.ZOrder" xml:space="preserve">
-    <value>1</value>
-  </data>
-  <data name="transTextBox3.Font" type="System.Drawing.Font, System.Drawing">
-    <value>华文楷体, 14.95pt, style=Bold</value>
-  </data>
-  <data name="transTextBox3.Location" type="System.Drawing.Point, System.Drawing">
-    <value>3, 172</value>
-  </data>
-  <data name="transTextBox3.ScrollBars" type="System.Windows.Forms.RichTextBoxScrollBars, System.Windows.Forms">
-    <value>None</value>
-  </data>
-  <data name="transTextBox3.Size" type="System.Drawing.Size, System.Drawing">
-    <value>218, 59</value>
-  </data>
-  <data name="transTextBox3.TabIndex" type="System.Int32, mscorlib">
-    <value>2</value>
-  </data>
-  <data name="transTextBox3.Text" xml:space="preserve">
-    <value>修仙加宗门清微崖9819 
-QQ群1003765249</value>
-  </data>
-  <data name="&gt;&gt;transTextBox3.Name" xml:space="preserve">
-    <value>transTextBox3</value>
-  </data>
-  <data name="&gt;&gt;transTextBox3.Type" xml:space="preserve">
-    <value>BaseTextBox.TransTextBox, BaseTextBox, Culture=neutral, PublicKeyToken=null</value>
-  </data>
-  <data name="&gt;&gt;transTextBox3.Parent" xml:space="preserve">
-    <value>$this</value>
-  </data>
-  <data name="&gt;&gt;transTextBox3.ZOrder" xml:space="preserve">
     <value>0</value>
   </data>
   <metadata name="$this.Localizable" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
